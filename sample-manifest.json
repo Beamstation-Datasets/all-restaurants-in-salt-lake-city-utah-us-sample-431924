@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a578f7ae-9671-4e1c-837b-6416d2094b62",
+  "id_short": 431924,
+  "published_at": "2026-04-12T07:40:09Z",
+  "repo_name": "all-restaurants-in-salt-lake-city-utah-us-sample-431924",
+  "sample_asset_name": "beamstation_431924_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/431924/beamstation_431924_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_records": 86,
+  "sample_sha256": "b9c16d89b986758039691780b30c5d607ada8e50243d648404efdaee5d540fb5",
+  "sample_size_bytes": 338748,
+  "total_records": 866
+}
