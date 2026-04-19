@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Salt Lake City, Utah with a population of over 199k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Salt Lake City, Utah, US",
-  "export_job_id": "a578f7ae-9671-4e1c-837b-6416d2094b62",
+  "export_job_id": "258763cd-9a8a-43ed-9f31-8e6c69923fd4",
   "github_org": "Beamstation-Datasets",
   "id_short": 431924,
   "location_name": "Salt Lake City",
   "location_type": "city",
   "repo_name": "all-restaurants-in-salt-lake-city-utah-us-sample-431924",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/431924/beamstation_431924_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_pct": 9.93,
+  "sample_pct": 9.95,
   "sample_records": 86,
-  "sample_sha256": "b9c16d89b986758039691780b30c5d607ada8e50243d648404efdaee5d540fb5",
-  "sample_size_bytes": 338748,
-  "total_records": 866,
-  "updated_at": "2026-04-09T09:37:19.090276+00:00"
+  "sample_sha256": "48e83b19b2e62cc25d8b419333a6fe93f668474db7189870eb6309d021a413fb",
+  "sample_size_bytes": 324632,
+  "total_records": 864,
+  "updated_at": "2026-04-16T09:33:07.919580+00:00"
 }
