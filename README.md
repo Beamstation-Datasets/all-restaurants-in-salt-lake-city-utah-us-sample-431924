@@ -9,9 +9,9 @@
 | Dataset ID | `431924` |
 | Location | Salt Lake City |
 | Category | Restaurants |
-| Full dataset size | 866 records |
-| Free sample size | 86 records (9.93%) |
-| Last export | 2026-04-09T09:37:19.090276+00:00 |
+| Full dataset size | 864 records |
+| Free sample size | 86 records (9.95%) |
+| Last export | 2026-04-16T09:33:07.919580+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-salt-lake-city-utah-us-sample-431924/releases/download/sample-latest/beamstation_431924_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
