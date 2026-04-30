@@ -1,6 +1,6 @@
 # All Restaurants in Salt Lake City, Utah, US
 
-> Free BeamStation sample export with 69 rows and masked direct-contact fields.
+> Free BeamStation sample export with 91 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `431924` |
 | Location | Salt Lake City |
 | Category | Restaurants |
-| Full dataset size | 692 records |
-| Free sample size | 69 records (9.97%) |
-| Last export | 2026-04-23T09:33:20.241547+00:00 |
+| Full dataset size | 914 records |
+| Free sample size | 91 records (9.96%) |
+| Last export | 2026-04-30T09:36:52.187164+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-salt-lake-city-utah-us-sample-431924/releases/download/sample-latest/beamstation_431924_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
